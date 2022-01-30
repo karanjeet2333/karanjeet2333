@@ -1,4 +1,4 @@
-  🔭 I’m currently working on VS code 
+ 🔭 I’m currently working on VS code 
 🌱 I’m currently learning C, python 
 💬 Ask me about c language 
 📫 How to reach me: ig - karanjeet_2333/code.knowledge
